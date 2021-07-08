@@ -15,5 +15,5 @@ spec:
       containers:
       - name: my-app
         image: 1398abhisingh911/final-year-project
-         ports:
-         - containerPort: 80
+        ports:
+        - containerPort: 80
